@@ -1,0 +1,45 @@
+body {
+	font-weight: bold;
+	margin: 20px;
+	padding: 0px;
+}
+
+#body-container {
+	border: 1px solid #93263b;
+}
+
+#header h1 {
+	margin: 0px;
+	line-height: 100px;
+	background: #93263b;
+	text-align: center;
+	color: white;
+}
+#footer {
+	clear: both;
+	line-height: 30px;
+	background: #93263b;
+	text-align: center;
+	color: white;
+}
+#menu {
+	width: 20%;
+	float: left;
+}
+#crumbs {
+	line-height: 25px;
+	padding-left: 10px;
+	border-bottom: 1px solid #93263b;
+}
+#crumbs a {
+	text-decoration: none;
+	color: #93263b;
+}
+#crumbs a:hover {
+	border-bottom: 2px solid #93263b;
+}
+#container {
+	float: left;
+	width: 80%;
+}
+

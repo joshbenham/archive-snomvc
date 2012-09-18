@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<map>
+	
+	<!-- Forum Section Map -->
+	<forum>
+		<param name="page" />
+		<param name="action" />
+		<param name="subaction" />
+		<param name="thread" />
+		<param name="id" />		
+	</forum>
+	
+	<!-- Default Map -->
+	<default>
+		<param name="page" />
+		<param name="action" />
+		<param name="id" />
+	</default>
+
+</map>
